@@ -1,1 +1,1 @@
-# Water-Pollution-from-Satellite-Imagery
+# River Pollution Satellite Detection & Warning System 
