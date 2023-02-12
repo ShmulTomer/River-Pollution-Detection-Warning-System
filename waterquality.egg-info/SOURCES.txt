@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+tests/__init__.py
+tests/test_WaterQuality.py
+waterquality/Common.py
+waterquality/WaterQuality.ini
+waterquality/WaterQuality.py
+waterquality/__init__.py
+waterquality/inversion_functions.py
+waterquality.egg-info/PKG-INFO
+waterquality.egg-info/SOURCES.txt
+waterquality.egg-info/dependency_links.txt
+waterquality.egg-info/entry_points.txt
+waterquality.egg-info/requires.txt
+waterquality.egg-info/top_level.txt

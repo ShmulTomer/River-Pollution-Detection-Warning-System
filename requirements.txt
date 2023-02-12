@@ -1,0 +1,10 @@
+waterdetect
+GDAL>=2.3.0
+matplotlib>=3.1.2
+PyPDF2>=1.26.0
+scipy>=1.1.0
+scikit-learn>=0.2
+pysptools>=0.15.0
+
+
+

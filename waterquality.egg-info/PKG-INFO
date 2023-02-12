@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: waterquality
+Version: 1.1.5
+Summary: The waterquality package extends the functionality of the waterdetect package to calculate water quality parameters over the identified water mask. To do so, it is mandatory to have waterdetect package installed (pip install waterdetect).
+Home-page: https://github.com/cordmaur/WaterQuality
+Author: Maurício Cordeiro
+Author-email: cordmaur@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+The waterquality package extends the functionality of the waterdetect package to calculate water quality parameters over the identified water mask. To do so, it is mandatory to have waterdetect package installed (pip install waterdetect).
